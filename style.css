@@ -1,0 +1,16 @@
+
+nav{
+    height: 8vh;
+}
+
+nav li{
+    display: inline-block;
+    margin: 20px;
+    position: relative; 
+}
+
+nav li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
